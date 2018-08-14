@@ -1,0 +1,13 @@
+{
+  "name": "drd-plus/frontend-skeleton-web",
+  "license": "MIT",
+  "type": "library",
+  "description": "Skeleton web files for DrD+ pages",
+  "keywords": [
+    "drd plus",
+    "pages",
+    "frontend",
+    "skeleton",
+    "web"
+  ]
+}
